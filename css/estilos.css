@@ -1,5 +1,13 @@
 body{
-    color:brown;
-    text-align: center;
+    color:rgb(8, 5, 5);
+    text-align: left;
      font-family: arial;
 }
+#post
+{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid ;
+    margin: 0 auto;
+}  
