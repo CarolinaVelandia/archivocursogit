@@ -3,11 +3,25 @@ body{
     text-align: left;
      font-family: arial;
 }
-#post
+#cabecera
 {
+    background-color: blue;
+    text-align: center;
+    color :rgb(253, 253, 253) ;
+    margin : 0 auto ;
+    padding: 0% 5em;
+    border: 1px auto;
+    width: 70%;
+    
+}
+#post
+
+
+{
+    
     width: 70%;
     padding: 1em;
-    text-align: left;
+    text-align: center;
     border: 1px solid ;
     margin: 0 auto;
 }  
